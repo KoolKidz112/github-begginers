@@ -1,0 +1,12 @@
+here is how to create a package so you can download things.
+(i got this from gibfahn or someone like him)
+node.js
+
+mkdir <pkg name>
+cd <pkg name>
+npm init
+
+the package should be created
+type the name and all other info,
+and there you go
+if your pretty confused with the <pkg name> tag, that just means put whatever you want for your package name
